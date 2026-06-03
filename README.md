@@ -1,2 +1,2 @@
 # Database-Inventory
-Scripts do counts for servers/ instances/databases/tables
+Scripts ounts for servers/ instances/databases/tables
